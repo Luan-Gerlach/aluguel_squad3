@@ -28,7 +28,13 @@ Este projeto é uma aplicação em Python que integra dados de casas para alugue
 - 🤝 Google Agentspace.
 
 ## 📊 Tabela do BigQuery  
+
+A imagem abaixo exibe a estrutura da tabela criada no BigQuery para armazenar os dados das casas para aluguel:
+
 ![Tabela](/doc/tabela_bigQuery.png)
 
 ## 🎉 Resultado  
+
+Exemplo de consulta realizada no Agentspace, retornando as duas maiores casas disponíveis para aluguel em Florianópolis (baseadas na área):
+
 ![Resultado](/doc/resultado.png)
